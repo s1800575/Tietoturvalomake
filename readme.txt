@@ -13,7 +13,7 @@ Varmista, että kyseisellä palvelimella on php-käytössä: tarvittaessa käynn
 
 Kyseinen lomake ei lähetä tietoja sähköpoistiin, vaan toimii ainoastaan tiedon katselun mallintamiseen.
 
-Lomakkeen tietoturva on tarkoituksella heikkp.
+Lomakkeen tietoturva on tarkoituksella heikko.
 
 (C) Heikki Juhani 2019
 
