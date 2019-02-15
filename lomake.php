@@ -6,14 +6,14 @@
 if(isset($_POST['email'])) {
 
     // osoite minne posti lähetetään ja postin osoite
-    $email_to = "@";
+    $email_to = ""; // lisää tähän oma osoiteesti
     $email_subject = "Harjoituslomake Burpsuite tai Wiresharkkiavarten";
 
     function died($error) {
         // Virheilmoitukset lomakkeen käytössä
         echo ".php suoritettu";
               echo $error."<br /><br />"; // tämä tulostaa mahdolliset virheet
-        echo "Paine BURBSUITEN Forward -painiketta päästäksesi eteenpäin kokeilussa<br /><br />";
+        echo "Paina BURBSUITEN Forward -painiketta päästäksesi eteenpäin kokeilussa<br /><br />";
         die();
     }
 
