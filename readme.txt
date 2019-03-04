@@ -19,5 +19,7 @@ Kyseinen lomake ei lähetä tietoja sähköpoistiin - toimii ainoastaan tiedon k
 
 Lomakkeen tietoturva on tarkoituksella heikko - lomaketta ei tule käyttää sellaisenaan minkään tiedon välittämiseen / keräämiseen tuotantokäytössä.
 
+muutos 
+
 (C) Heikki Juhani 2019
 
